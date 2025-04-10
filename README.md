@@ -1,1 +1,2 @@
+A small react project
 
